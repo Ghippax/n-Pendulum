@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707690248 source:c:\dev\projects\doublependulum\main.cpp
+	<bits/stdc++.h>
+	<SFML/Graphics.hpp>
+	"core/core.hpp"
+	"videoio/videoio.hpp"
+	"imgproc/imgproc.hpp"
+
